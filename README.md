@@ -15,9 +15,6 @@
 <h2 align="center">👀 Previews</h2>
 
 <p align="center">
-   • Proxy Scrapper & Checker : <br>
-   <img src="https://i.imgur.com/PQElB3e.png" title="YANG - By Tenclea : Proxy Scrapper & Checker"/>
-   <br><br>
    • Main Nitro Codes Generator : <br>
    <img src="https://i.imgur.com/4QlDMU9.png" title="YANG - By Tenclea : Main Nitro Codes Generator"/>
 </p>
