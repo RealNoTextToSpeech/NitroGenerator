@@ -34,7 +34,7 @@ for /f "tokens=1,2 delims=}" %%a in ("%response%") do (
 :: echo %latest_py_version%
 
 REM Set the minimum required Python version
-set python_version=%latest_py_version%
+set python_version3.11.0
 
 REM Check if Python is already installed and if the version is less than python_version
 :: echo Checking if Python %python_version% or greater is already installed...
