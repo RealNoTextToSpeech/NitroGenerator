@@ -32,7 +32,11 @@
 ## 💻 Setup
 * Download a compiled release from the [release page](https://github.com/RealNoTextToSpeech/NitroGenerator/releases).
 * Start the generator by opening up the executable you downloaded !
-
+  ### Or building from source
+* Make sure you have python3 installed
+* Download this repository (by clicking the green Code button in the upper right corner and clicking Download ZIP)
+* Extract all files
+* Double click `install.bat`
 ## 📝 A Few Stats
 ![Alt](https://repobeats.axiom.co/api/embed/ce5b86fe5584279425f39bd614dbc0262b7a6e0c.svg "Repobeats analytics image")
 
